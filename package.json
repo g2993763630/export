@@ -13,7 +13,7 @@
     "file-saver": "^2.0.2",
     "print-js": "^1.0.63",
     "vue": "^2.5.2",
-    "xlsx": "^0.15.1"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
